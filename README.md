@@ -23,5 +23,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Licence
  [MIT](https://www.mit.edu/)
  
- ![Proje Resmi](https://github.com/seydangulyesil/kodluyoruzilkrepo/blob/main/kodluyoruzilkrepo.png)
+ ![Proje Resmi](https://github.com/seydangulyesil/kodluyoruzilkrepo/blob/8ae1228d1406c5e96eef0c3965bdf4e81656ae7e/kodluyoruzilkrepo.png)
  
